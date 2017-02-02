@@ -5,6 +5,8 @@ This is a project from Udacity's Deep Learning course. Here we take bike rental 
 
 #### Graphs!
 Some graphs of the outcomes. I found that 5000 epochs and 7 hidden nodes worked well for training.
+![training_data](https://raw.githubusercontent.com/mrdougwright/DLND-your-first-network/master/details/training_data.png)
+![prediction_data](https://raw.githubusercontent.com/mrdougwright/DLND-your-first-network/master/details/prediction_data.png)
 
 
 #### Installation Instructions
