@@ -17,8 +17,11 @@ Create a new conda environment:
   `conda create --name dlnd python=3`
 
 Enter your new environment:
+
 Mac/Linux: >> `source activate dlnd`
+
 Windows: >> `activate dlnd`
+
 Your console prompt should look something like:
 `(dlnd) [dlnd-your-first-network]$ `
 
